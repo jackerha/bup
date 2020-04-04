@@ -7,10 +7,10 @@
     "name": "Affenpinscher",
     "origin": "Germany, France",
     "temperament": "Stubborn, Curious, Playful, Adventurous, Active, Fun-loving",
-    "key": {
+    "key": [
       "A",
       "B"
-  },
+  ],
     "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/1.jpg"
   },
   {
@@ -21,10 +21,10 @@
     "name": "Afghan Hound",
     "origin": "Afghanistan, Iran, Pakistan",
     "temperament": "Aloof, Clownish, Dignified, Independent, Happy",
-    "key": {
+    "key": [
       "C",
       "D"
-  },
+  ]
     "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/2.jpg"
   },
   {
@@ -34,10 +34,10 @@
     "life_span": "4",
     "name": "Yorkshire Terrier",
     "temperament": "Bold, Independent, Confident, Intelligent, Courageous",
-    "key": {
+    "key": [
       "F",
       "E"
-    },
+    ],
     "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/264.jpg"
   }
 ]
