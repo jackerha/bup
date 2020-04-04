@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "life_span": "10 - 12 years",
+    "name": "Affenpinscher",
+    "origin": "Germany, France",
+    "temperament": "Stubborn, Curious, Playful, Adventurous, Active, Fun-loving",
+    "key": [
+      "A",
+      "B"
+    ],
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/1.jpg"
+  },
+  {
+    "id": 2,
+    "life_span": "10 - 13 years",
+    "name": "Afghan Hound",
+    "origin": "Afghanistan, Iran, Pakistan",
+    "temperament": "Aloof, Clownish, Dignified, Independent, Happy",
+    "key": [
+      "C",
+      "D"
+    ],
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/2.jpg"
+  },
+    "id": 3,
+    "life_span": "4",
+    "name": "Yorkshire Terrier",
+    "temperament": "Bold, Independent, Confident, Intelligent, Courageous",
+    "key": [
+      "F",
+      "E"
+    ],
+    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/264.jpg"
+  }
+]
