@@ -1,5 +1,7 @@
 [
   {
+    "bred_for": "Small rodent hunting, lapdog",
+    "breed_group": "Toy",
     "id": 1,
     "life_span": "10 - 12 years",
     "name": "Affenpinscher",
@@ -12,6 +14,8 @@
     "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/1.jpg"
   },
   {
+    "bred_for": "Coursing and hunting",
+    "breed_group": "Hound",
     "id": 2,
     "life_span": "10 - 13 years",
     "name": "Afghan Hound",
@@ -24,6 +28,8 @@
     "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/2.jpg"
   },
   {
+     "bred_for": "Small vermin hunting",
+    "breed_group": "Toy",
     "id": 3,
     "life_span": "4",
     "name": "Yorkshire Terrier",
