@@ -7,6 +7,15 @@
     "name": "Affenpinscher",
     "origin": "Germany, France",
     "temperament": "Stubborn, Curious, Playful, Adventurous, Active, Fun-loving",
+    "questions": [ 
+      "1 + 1"
+    ],
+    "answers": [
+      "2"
+    ],
+    "opt":[
+    "1","4","5","2"
+    ],
     "key": [
       "A",
       "B"
