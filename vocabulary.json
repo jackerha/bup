@@ -30,6 +30,15 @@
     "name": "Afghan Hound",
     "origin": "Afghanistan, Iran, Pakistan",
     "temperament": "Aloof, Clownish, Dignified, Independent, Happy",
+    "questions": [ 
+      "1 + 1"
+    ],
+    "answers": [
+      "2"
+    ],
+    "opt":[
+    "1","4","5","2"
+    ],
     "key": [
       "C",
       "D"
@@ -43,6 +52,15 @@
     "life_span": "4",
     "name": "Yorkshire Terrier",
     "temperament": "Bold, Independent, Confident, Intelligent, Courageous",
+    "questions": [ 
+      "1 + 1"
+    ],
+    "answers": [
+      "2"
+    ],
+    "opt":[
+    "1","4","5","2"
+    ],
     "key": [
       "Hình nào là trái táo? ",
         "Which of these is not a bitwise operator?",
