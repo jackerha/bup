@@ -17,7 +17,7 @@
     "1","4","5","2"
     ],
     "key": [
-      "A",
+      "Hình nào là trái táo 1? ",
       "B"
   ],
     "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/1.jpg"
@@ -40,7 +40,7 @@
     "1","4","5","2"
     ],
     "key": [
-      "C",
+      "Hình nào là trái táo 2? ",
       "D"
   ],
     "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/2.jpg"
@@ -62,7 +62,7 @@
     "1","4","5","2"
     ],
     "key": [
-      "Hình nào là trái táo? ",
+      "Hình nào là trái táo 3? ",
         "Which of these is not a bitwise operator?",
         "Which keyword is used by method to refer to the object that invoked it?",
         "Which of these keywords is used to define interfaces in Java?",
