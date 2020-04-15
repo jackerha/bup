@@ -8,20 +8,52 @@
     "origin": "Germany, France",
     "temperament": "Stubborn, Curious, Playful, Adventurous, Active, Fun-loving",
     "questions": [ 
-      "AAAA",
-      "BBBB"
+       "Hình nào là trái táo? ",
+        "Which of these is not a bitwise operator?",
+        "Which keyword is used by method to refer to the object that invoked it?"
     ],
     "answers": [
-      "2"
+         "apple",
+        "boy",
+        "girl",
+        "man",
+        "public",
+        "import pkg.*",
+        "None of the mentioned",
+        "java",
+        "equals()",
+        "int"
     ],
     "opt":[
-    "1","4","5","2"
+       "apple", "boy", "girl", "man",
+        "man", "girl", "boy", "apple",
+        "import", "this", "catch", "abstract"
+    ],
+    "img":[
+     "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/man4.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/man2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png"
+    ],
+    "read":[
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&total=1&idx=0&textlen=5&tk=881021.772308&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=boy&tl=en&total=1&idx=0&textlen=3&tk=40910.403047&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=girl&tl=en&total=1&idx=0&textlen=4&tk=814923.710370&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=man&tl=en&total=1&idx=0&textlen=3&tk=438330.2451&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=man&tl=en&total=1&idx=0&textlen=3&tk=438330.2451&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=girl&tl=en&total=1&idx=0&textlen=4&tk=814923.710370&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=boy&tl=en&total=1&idx=0&textlen=3&tk=40910.403047&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&total=1&idx=0&textlen=5&tk=881021.772308&client=webapp&prev=input"
     ],
     "key": [
       "Hình nào là trái táo 1? ",
       "B"
   ],
-    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/1.jpg"
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png"
   },
   {
     "bred_for": "Coursing and hunting",
@@ -31,21 +63,53 @@
     "name": "Afghan Hound",
     "origin": "Afghanistan, Iran, Pakistan",
     "temperament": "Aloof, Clownish, Dignified, Independent, Happy",
-    "questions": [ 
-     "AAAA",
-      "BBBB"
+     "questions": [ 
+       "Hình nào là trái táo? ",
+        "Which of these is not a bitwise operator?",
+        "Which keyword is used by method to refer to the object that invoked it?"
     ],
     "answers": [
-      "2"
+         "apple",
+        "boy",
+        "girl",
+        "man",
+        "public",
+        "import pkg.*",
+        "None of the mentioned",
+        "java",
+        "equals()",
+        "int"
     ],
     "opt":[
-    "1","4","5","2"
+       "apple", "boy", "girl", "man",
+        "man", "girl", "boy", "apple",
+        "import", "this", "catch", "abstract"
+    ],
+    "img":[
+     "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/man4.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/man2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png"
+    ],
+    "read":[
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&total=1&idx=0&textlen=5&tk=881021.772308&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=boy&tl=en&total=1&idx=0&textlen=3&tk=40910.403047&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=girl&tl=en&total=1&idx=0&textlen=4&tk=814923.710370&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=man&tl=en&total=1&idx=0&textlen=3&tk=438330.2451&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=man&tl=en&total=1&idx=0&textlen=3&tk=438330.2451&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=girl&tl=en&total=1&idx=0&textlen=4&tk=814923.710370&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=boy&tl=en&total=1&idx=0&textlen=3&tk=40910.403047&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&total=1&idx=0&textlen=5&tk=881021.772308&client=webapp&prev=input"
     ],
     "key": [
       "Hình nào là trái táo 2? ",
       "D"
   ],
-    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/2.jpg"
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png"
   },
   {
      "bred_for": "Small vermin hunting",
@@ -54,15 +118,47 @@
     "life_span": "4",
     "name": "Yorkshire Terrier",
     "temperament": "Bold, Independent, Confident, Intelligent, Courageous",
-    "questions": [ 
-      "AAAA",
-      "BBBB"
+      "questions": [ 
+       "Hình nào là trái táo? ",
+        "Which of these is not a bitwise operator?",
+        "Which keyword is used by method to refer to the object that invoked it?"
     ],
     "answers": [
-      "2"
+         "apple",
+        "boy",
+        "girl",
+        "man",
+        "public",
+        "import pkg.*",
+        "None of the mentioned",
+        "java",
+        "equals()",
+        "int"
     ],
     "opt":[
-    "1","4","5","2"
+       "apple", "boy", "girl", "man",
+        "man", "girl", "boy", "apple",
+        "import", "this", "catch", "abstract"
+    ],
+    "img":[
+     "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/man4.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/man2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png"
+    ],
+    "read":[
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&total=1&idx=0&textlen=5&tk=881021.772308&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=boy&tl=en&total=1&idx=0&textlen=3&tk=40910.403047&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=girl&tl=en&total=1&idx=0&textlen=4&tk=814923.710370&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=man&tl=en&total=1&idx=0&textlen=3&tk=438330.2451&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=man&tl=en&total=1&idx=0&textlen=3&tk=438330.2451&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=girl&tl=en&total=1&idx=0&textlen=4&tk=814923.710370&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=boy&tl=en&total=1&idx=0&textlen=3&tk=40910.403047&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&total=1&idx=0&textlen=5&tk=881021.772308&client=webapp&prev=input"
     ],
     "key": [
       "Hình nào là trái táo 3? ",
@@ -76,6 +172,6 @@
         "Which of these method of class String is used to compare two String objects for their equality?",
         "An expression involving byte, int, & literal numbers is promoted to which of these?"
     ],
-    "url": "https://raw.githubusercontent.com/DevTides/DogsApi/master/264.jpg"
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   }
 ]
