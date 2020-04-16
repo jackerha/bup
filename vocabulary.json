@@ -50,8 +50,8 @@
     "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&total=1&idx=0&textlen=5&tk=881021.772308&client=webapp&prev=input"
     ],
     "key": [
-      "Hình nào là trái táo 1? ",
-      "B"
+      "",
+      "E", "P", "A", "N", "P", "H", "L", "M", "L"
   ],
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png"
   },
@@ -106,8 +106,8 @@
     "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&total=1&idx=0&textlen=5&tk=881021.772308&client=webapp&prev=input"
     ],
     "key": [
-      "Hình nào là trái táo 2? ",
-      "D"
+      "",
+      "E", "P", "A", "N", "P", "H", "L", "M", "L"
   ],
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png"
   },
@@ -161,16 +161,8 @@
     "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&total=1&idx=0&textlen=5&tk=881021.772308&client=webapp&prev=input"
     ],
     "key": [
-      "Hình nào là trái táo 3? ",
-        "Which of these is not a bitwise operator?",
-        "Which keyword is used by method to refer to the object that invoked it?",
-        "Which of these keywords is used to define interfaces in Java?",
-        "Which of these access specifiers can be used for an interface?",
-        "Which of the following is correct way of importing an entire package ‘pkg’?",
-        "What is the return type of Constructors?",
-        "Which of the following package stores all the standard java classes?",
-        "Which of these method of class String is used to compare two String objects for their equality?",
-        "An expression involving byte, int, & literal numbers is promoted to which of these?"
+      "",
+     "E", "P", "A", "N", "P", "H", "L", "M", "L"
     ],
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   }
