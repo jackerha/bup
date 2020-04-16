@@ -27,7 +27,7 @@
     "opt":[
        "apple", "boy", "girl", "man",
         "man", "girl", "boy", "apple",
-        "import", "this", "girl", "abstract"
+        "girl", "girl", "girl", "girl"
     ],
     "img":[
      "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png",
