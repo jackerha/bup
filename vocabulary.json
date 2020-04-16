@@ -27,6 +27,7 @@
     "opt":[
        "apple", "boy", "girl", "man",
         "man", "girl", "boy", "apple",
+        "girl", "girl", "girl", "girl",
         "girl", "girl", "girl", "girl"
     ],
     "img":[
