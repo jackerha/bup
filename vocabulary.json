@@ -58,8 +58,9 @@
     "https://translate.google.com/translate_tts?ie=UTF-8&q=man&tl=en&total=1&idx=0&textlen=3&tk=438330.2451&client=webapp&prev=input"
     ],
     "key": [
-      "E", "P", "A", "N", "P", "H", "L", "M", "L",
-      "E", "P", "A", "N", "P", "H", "L", "M", "L",
+      "E", "P", "A", "N",
+      "L P I A P I E M Q", "H", "L", "M",
+      "L","E", "P", "A", "N", "P", "H", "L", "M", "L",
       "E", "P", "A", "N", "P", "H", "L", "M", "L"
   ],
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png"
@@ -115,7 +116,9 @@
     "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&total=1&idx=0&textlen=5&tk=881021.772308&client=webapp&prev=input"
     ],
     "key": [
-      "",
+      "E", "P", "A", "N",
+      "L P I A P I E M Q", "H", "L", "M",
+      "L","E", "P", "A", "N", "P", "H", "L", "M", "L",
       "E", "P", "A", "N", "P", "H", "L", "M", "L"
   ],
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png"
@@ -170,8 +173,10 @@
     "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&total=1&idx=0&textlen=5&tk=881021.772308&client=webapp&prev=input"
     ],
     "key": [
-      "",
-     "E", "P", "A", "N", "P", "H", "L", "M", "L"
+      "E", "P", "A", "N",
+      "L P I A P I E M Q", "H", "L", "M",
+      "L","E", "P", "A", "N", "P", "H", "L", "M", "L",
+      "E", "P", "A", "N", "P", "H", "L", "M", "L"
     ],
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   }
