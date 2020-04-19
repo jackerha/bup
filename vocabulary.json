@@ -4,7 +4,7 @@
     "breed_group": "Toy",
     "id": 1,
     "life_span": "10 - 12 years",
-    "name": "Affenpinscher",
+    "name": "Cơ Bản",
     "origin": "Germany, France",
     "temperament": "Stubborn, Curious, Playful, Adventurous, Active, Fun-loving",
     "questions": [ 
@@ -71,7 +71,7 @@
     "breed_group": "Hound",
     "id": 2,
     "life_span": "10 - 13 years",
-    "name": "Afghan Hound",
+    "name": "Cơ Bản 1",
     "origin": "Afghanistan, Iran, Pakistan",
     "temperament": "Aloof, Clownish, Dignified, Independent, Happy",
      "questions": [ 
@@ -129,7 +129,7 @@
     "breed_group": "Toy",
     "id": 3,
     "life_span": "4",
-    "name": "Yorkshire Terrier",
+    "name": "Cơ Bản 2",
     "temperament": "Bold, Independent, Confident, Intelligent, Courageous",
       "questions": [ 
        "Hình nào là trái táo? ",
