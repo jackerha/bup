@@ -10,13 +10,14 @@
     "questions": [ 
        "Hình nào là trái táo? ",
         "Viết tên hình ảnh dưới đây?",
-        "Which keyword is used by method to refer to the object that invoked it?"
+        "Hình nào là con gái?",
+        "Viết tên hình ảnh dưới đây?"
     ],
     "answers": [
          "apple",
-        "APPLE",
+B        "BOY",
         "girl",
-        "GIRL",
+        "MAN",
         "public",
         "import pkg.*",
         "None of the mentioned",
@@ -36,19 +37,20 @@
         "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png",
         "https://raw.githubusercontent.com/jackerha/bup/master/man4.png",
       
-      "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png",
         "https://raw.githubusercontent.com/jackerha/bup/master/man4.png",
         "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png",
-        "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png",
+
       
         "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png",
         "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png",
         "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png",
         "https://raw.githubusercontent.com/jackerha/bup/master/man4.png",
       
+      "https://raw.githubusercontent.com/jackerha/bup/master/man4.png",
       "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png",
       "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png",
-        "https://raw.githubusercontent.com/jackerha/bup/master/man4.png",
         "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png"
     ],
     "read":[
@@ -67,9 +69,9 @@
     ],
     "key": [
       "E", "P", "A", "N",
-      "L P I A P I E M Q", "H", "L", "M",
-      "L O G U I U R N E","E", "P", "A",
-      "N", "P", "H", "L", "M", "L",
+      "L B I A P Y E M O", "H", "L", "M",
+      "L","E", "P", "A",
+      "L  O G U I U R N E", "P", "H", "L", "M", "L",
       "E", "P", "A", "N", "P", "H", "L", "M", "L"
   ],
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png"
