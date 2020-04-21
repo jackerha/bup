@@ -190,5 +190,34 @@
       "E", "P", "A", "N", "P", "H", "L", "M", "L"
     ],
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
-  }
+  },
+  {
+    "id": 4,
+    "name": "Vật dụng Trong Nhà",
+  },
+  {
+    "id": 5,
+    "name": "Món Ăn",
+  },
+  {
+    "id": 6,
+    "name": "Gia Đình",
+  },
+  {
+    "id": 7,
+    "name": "Khách Sạn",
+  },
+  {
+    "id": 8,
+    "name": "Du Lịch",
+  },
+  {
+    "id": 9,
+    "name": "Sân Bay",
+  },
+  {
+    "id": 10,
+    "name": "Nhà Hàng",
+  },
+  
 ]
