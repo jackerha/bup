@@ -199,13 +199,13 @@
     "name": "Vật Dụng Trong Nhà",
     "origin": "",
     "temperament": "",
-    "temperament":[],
-    "questions":[],
-    "answers":[],
-    "opt":[],
-    "img":[],
-    "read":[],
-    "key":[],
+    "temperament":[""],
+    "questions":[""],
+    "answers":[""],
+    "opt":[""],
+    "img":[""],
+    "read":[""],
+    "key":[""],
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   }
 ]
