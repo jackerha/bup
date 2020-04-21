@@ -137,9 +137,9 @@
   {
      "bred_for": "Small vermin hunting",
     "breed_group": "Toy",
-    "id": 4,
+    "id": 3,
     "life_span": "4",
-    "name": "Vật Dụng Trong Nhà",
+    "name": "Cơ Bản 2",
     "temperament": "Bold, Independent, Confident, Intelligent, Courageous",
       "questions": [ 
        "Hình nào là trái táo? ",
@@ -194,9 +194,9 @@
   {
      "bred_for": "Small vermin hunting",
     "breed_group": "Toy",
-    "id": 3,
+    "id": 4,
     "life_span": "4",
-    "name": "Cơ Bản 2",
+    "name": "Vật Dụng Trong Nhà",
     "temperament": "Bold, Independent, Confident, Intelligent, Courageous",
       "questions": [ 
        "Hình nào là trái táo? ",
