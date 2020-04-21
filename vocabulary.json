@@ -194,30 +194,37 @@
   {
     "id": 4,
     "name": "Vật dụng Trong Nhà",
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   },
   {
     "id": 5,
     "name": "Món Ăn",
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   },
   {
     "id": 6,
     "name": "Gia Đình",
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   },
   {
     "id": 7,
     "name": "Khách Sạn",
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   },
   {
     "id": 8,
     "name": "Du Lịch",
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   },
   {
     "id": 9,
     "name": "Sân Bay",
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   },
   {
     "id": 10,
     "name": "Nhà Hàng",
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   },
   
 ]
