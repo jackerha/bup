@@ -190,5 +190,22 @@
       "E", "P", "A", "N", "P", "H", "L", "M", "L"
     ],
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
+  },
+  {
+   "bred_for": "",
+    "breed_group": "",
+    "id": 4,
+    "life_span": "",
+    "name": "Vật Dụng Trong Nhà",
+    "origin": "",
+    "temperament": "",
+    "temperament":[],
+    "questions":[],
+    "answers":[],
+    "opt":[],
+    "img":[],
+    "read":[],
+    "key":[],
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   }
 ]
