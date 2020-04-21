@@ -192,19 +192,19 @@
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   },
   {
-   "bred_for": "",
-    "breed_group": "",
+   "bred_for": "a",
+    "breed_group": "a",
     "id": 4,
-    "life_span": "",
+    "life_span": "a",
     "name": "Vật Dụng Trong Nhà",
-    "origin": "",
-    "temperament": "",
-    "questions":[""],
-    "answers":[""],
-    "opt":[""],
-    "img":[""],
-    "read":[""],
-    "key":[""],
+    "origin": "a",
+    "temperament": "a",
+    "questions":["a"],
+    "answers":["a"],
+    "opt":["a"],
+    "img":["a"],
+    "read":["a"],
+    "key":["a"],
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   }
 ]
