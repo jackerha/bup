@@ -1,12 +1,7 @@
 [
   {
-    "bred_for": "Small rodent hunting, lapdog",
-    "breed_group": "Toy",
     "id": 1,
-    "life_span": "10 - 12 years",
     "name": "Cơ Bản",
-    "origin": "Germany, France",
-    "temperament": "Stubborn, Curious, Playful, Adventurous, Active, Fun-loving",
     "questions": [ 
        "Hình nào là trái táo? ",
         "Viết tên hình ảnh dưới đây?",
@@ -77,13 +72,8 @@
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png"
   },
   {
-    "bred_for": "Coursing and hunting",
-    "breed_group": "Hound",
     "id": 2,
-    "life_span": "10 - 13 years",
     "name": "Cơ Bản 1",
-    "origin": "Afghanistan, Iran, Pakistan",
-    "temperament": "Aloof, Clownish, Dignified, Independent, Happy",
      "questions": [ 
        "Hình nào là trái táo? ",
         "Which of these is not a bitwise operator?",
@@ -135,12 +125,8 @@
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png"
   },
   {
-     "bred_for": "Small vermin hunting",
-    "breed_group": "Toy",
     "id": 3,
-    "life_span": "4",
     "name": "Cơ Bản 2",
-    "temperament": "Bold, Independent, Confident, Intelligent, Courageous",
       "questions": [ 
        "Hình nào là trái táo? ",
         "Which of these is not a bitwise operator?",
@@ -192,12 +178,8 @@
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   },
   {
-     "bred_for": "Small vermin hunting",
-    "breed_group": "Toy",
     "id": 4,
-    "life_span": "4",
     "name": "Vật Dụng Trong Nhà",
-    "temperament": "Bold, Independent, Confident, Intelligent, Courageous",
       "questions": [ 
        "Hình nào là trái táo? ",
         "Which of these is not a bitwise operator?",
@@ -249,12 +231,8 @@
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   },
   {
-     "bred_for": "Small vermin hunting",
-    "breed_group": "Toy",
     "id": 5,
-    "life_span": "4",
     "name": "Món Ăn",
-    "temperament": "Bold, Independent, Confident, Intelligent, Courageous",
       "questions": [ 
        "Hình nào là trái táo? ",
         "Which of these is not a bitwise operator?",
@@ -306,12 +284,8 @@
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   },
    {
-     "bred_for": "Small vermin hunting",
-    "breed_group": "Toy",
-    "id": 6,
-    "life_span": "4",
+     "id": 6,
     "name": "Gia đình",
-    "temperament": "Bold, Independent, Confident, Intelligent, Courageous",
       "questions": [ 
        "Hình nào là trái táo? ",
         "Which of these is not a bitwise operator?",
@@ -363,12 +337,8 @@
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   },
   {
-     "bred_for": "Small vermin hunting",
-    "breed_group": "Toy",
     "id": 7,
-    "life_span": "4",
     "name": "Khách Sạn",
-    "temperament": "Bold, Independent, Confident, Intelligent, Courageous",
       "questions": [ 
        "Hình nào là trái táo? ",
         "Which of these is not a bitwise operator?",
@@ -420,12 +390,8 @@
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   },
   {
-     "bred_for": "Small vermin hunting",
-    "breed_group": "Toy",
     "id": 8,
-    "life_span": "4",
     "name": "Du Lịch",
-    "temperament": "Bold, Independent, Confident, Intelligent, Courageous",
       "questions": [ 
        "Hình nào là trái táo? ",
         "Which of these is not a bitwise operator?",
@@ -477,12 +443,8 @@
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png"
   },
   {
-     "bred_for": "Small vermin hunting",
-    "breed_group": "Toy",
     "id": 9,
-    "life_span": "4",
     "name": "Sân Bay",
-    "temperament": "Bold, Independent, Confident, Intelligent, Courageous",
       "questions": [ 
        "Hình nào là trái táo? ",
         "Which of these is not a bitwise operator?",
