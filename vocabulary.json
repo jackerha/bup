@@ -2,6 +2,8 @@
   {
     "id": 1,
     "name": "Cơ Bản",
+    "audio":["https://raw.githubusercontent.com/jackerha/bup/master/true.mp3",
+            "https://raw.githubusercontent.com/jackerha/bup/master/fail.mp3"],
     "questions": [ 
        "Hình nào là trái táo? ",
         "Viết tên hình ảnh dưới đây?",
@@ -77,6 +79,8 @@
   {
     "id": 2,
     "name": "Cơ Bản 1",
+    "audio":["https://raw.githubusercontent.com/jackerha/bup/master/true.mp3",
+            "https://raw.githubusercontent.com/jackerha/bup/master/fail.mp3"],
      "questions": [ 
        "Hình nào là trái táo? ",
         "Which of these is not a bitwise operator?",
@@ -130,6 +134,8 @@
   {
     "id": 3,
     "name": "Cơ Bản 2",
+    "audio":["https://raw.githubusercontent.com/jackerha/bup/master/true.mp3",
+            "https://raw.githubusercontent.com/jackerha/bup/master/fail.mp3"],
       "questions": [ 
        "Hình nào là trái táo? ",
         "Which of these is not a bitwise operator?",
@@ -183,6 +189,8 @@
   {
     "id": 4,
     "name": "Vật Dụng Trong Nhà",
+    "audio":["https://raw.githubusercontent.com/jackerha/bup/master/true.mp3",
+            "https://raw.githubusercontent.com/jackerha/bup/master/fail.mp3"],
       "questions": [ 
        "Hình nào là trái táo? ",
         "Which of these is not a bitwise operator?",
@@ -236,6 +244,8 @@
   {
     "id": 5,
     "name": "Món Ăn",
+    "audio":["https://raw.githubusercontent.com/jackerha/bup/master/true.mp3",
+            "https://raw.githubusercontent.com/jackerha/bup/master/fail.mp3"],
       "questions": [ 
        "Hình nào là trái táo? ",
         "Which of these is not a bitwise operator?",
@@ -289,6 +299,8 @@
    {
      "id": 6,
     "name": "Gia đình",
+     "audio":["https://raw.githubusercontent.com/jackerha/bup/master/true.mp3",
+            "https://raw.githubusercontent.com/jackerha/bup/master/fail.mp3"],
       "questions": [ 
        "Hình nào là trái táo? ",
         "Which of these is not a bitwise operator?",
@@ -342,6 +354,8 @@
   {
     "id": 7,
     "name": "Khách Sạn",
+    "audio":["https://raw.githubusercontent.com/jackerha/bup/master/true.mp3",
+            "https://raw.githubusercontent.com/jackerha/bup/master/fail.mp3"],
       "questions": [ 
        "Hình nào là trái táo? ",
         "Which of these is not a bitwise operator?",
@@ -395,6 +409,8 @@
   {
     "id": 8,
     "name": "Du Lịch",
+    "audio":["https://raw.githubusercontent.com/jackerha/bup/master/true.mp3",
+            "https://raw.githubusercontent.com/jackerha/bup/master/fail.mp3"],
       "questions": [ 
        "Hình nào là trái táo? ",
         "Which of these is not a bitwise operator?",
@@ -448,6 +464,8 @@
   {
     "id": 9,
     "name": "Sân Bay",
+    "audio":["https://raw.githubusercontent.com/jackerha/bup/master/true.mp3",
+            "https://raw.githubusercontent.com/jackerha/bup/master/fail.mp3"],
       "questions": [ 
        "Hình nào là trái táo? ",
         "Which of these is not a bitwise operator?",
