@@ -54,7 +54,27 @@
        "apple", "apricot", "avocado", "banana",
         "", "", "", "",
         "banana", "avocado", "apple", "apricot",
-        "", "", "", ""
+        "", "", "", "",
+      
+      "blackberry", "cherry", "coconut", "eggplant",
+      "", "", "", "",
+      "cherry", "eggplant", "blackberry", "coconut",
+      "", "", "", "",
+      
+      "grape", "kiwi", "lemon", "mango",
+      "", "", "", "",
+      "lemon", "mango", "grape", "kiwi",
+      "", "", "", "",
+      
+      "orange", "papaya", "pear", "pineapple",
+      "", "", "", "",
+      "pineapple", "pear", "papaya", "orange",
+      "", "", "", "",
+      
+      "pomegranate", "strawberry", "tomato", "watermelon",
+      "", "", "", "",
+      "tomato", "watermelon", "pomegranate", "strawberry",
+      "", "", "", ""
     ],
     "img":[
      "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png",
