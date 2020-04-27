@@ -10,19 +10,45 @@
        "Hình nào là trái táo? ",
         "Viết tên hình ảnh dưới đây?",
         "Hình nào là trái bơ?",
-        "Viết tên hình ảnh dưới đây?"
+        "Viết tên hình ảnh dưới đây?",
+      "Hình nào là trái dâu? "
+      "Viết tên hình ảnh dưới đây?",
+      "Hình nào là trái dừa? "
+      "Viết tên hình ảnh dưới đây?",
+      "Hình nào là trái nho? "
+      "Viết tên hình ảnh dưới đây?",
+      "Hình nào là trái chanh? "
+      "Viết tên hình ảnh dưới đây?",
+      "Hình nào là trái cam? "
+      "Viết tên hình ảnh dưới đây?",
+      "Hình nào là trái lê? "
+      "Viết tên hình ảnh dưới đây?",
+      "Hình nào là trái vải? "
+      "Viết tên hình ảnh dưới đây?",
+      "Hình nào là trái cà? "
+      "Viết tên hình ảnh dưới đây?",
     ],
     "answers": [
         "apple",
         "APRICOT",
         "avocado",
         "BANANA",
-        "FF",
-        "import pkg.*",
-        "None of the mentioned",
-        "java",
-        "equals()",
-        "int"
+        "blackberry",
+        "CHERRY",
+        "coconut",
+        "EGGPLANT",
+        "grape",
+        "KIWI",
+      "lemon",
+      "MANGO",
+      "orange",
+      "PAPAYA",
+      "pear",
+      "PINEAPPLE",
+      "pomegranate",
+      "STRAWBERRY",
+      "tomato",
+      "WATERMELON"
     ],
     "opt":[
        "apple", "apricot", "avocado", "banana",
