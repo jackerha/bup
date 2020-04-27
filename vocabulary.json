@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Cơ Bản",
+    "name": "Trái Cây",
     "audio": [
       "https://raw.githubusercontent.com/jackerha/bup/master/true.mp3",
       "https://raw.githubusercontent.com/jackerha/bup/master/fail.mp3"
@@ -304,42 +304,81 @@
   },
   {
     "id": 2,
-    "name": "Cơ Bản 1",
+    "name": "Gia Đình",
     "audio": [
       "https://raw.githubusercontent.com/jackerha/bup/master/true.mp3",
       "https://raw.githubusercontent.com/jackerha/bup/master/fail.mp3"
     ],
      "questions": [ 
-       "Hình nào là trái táo? ",
-        "Which of these is not a bitwise operator?",
-        "Which keyword is used by method to refer to the object that invoked it?"
+       "Hình nào là anh trai? ",
+        "Viết tên hình ảnh dưới đây?",
+        "Hình nào là bố? ",
+       "Viết tên hình ảnh dưới đây?",
+        "Hình nào là bà? ",
+        "Viết tên hình ảnh dưới đây?",
+        "Hình nào là chị gái? ",
+       "Viết tên hình ảnh dưới đây?"
     ],
     "answers": [
-         "apple",
-        "boy",
-        "girl",
-        "man",
-        "public",
-        "import pkg.*",
-        "None of the mentioned",
-        "java",
-        "equals()",
-        "int"
+         "brother",
+        "DAUGHTER",
+        "father",
+        "GRANDFATHER",
+        "grandmother",
+        "MOTHER",
+        "sister",
+        "SON"
     ],
     "opt":[
-       "apple", "boy", "girl", "man",
-        "man", "girl", "boy", "apple",
-        "import", "this", "catch", "abstract"
+       "brother", "father", "grandfather", "daughter",
+        "", "", "", "",
+      "father", "daughter", "brother", "grandfather",
+      "", "", "", "",
+      "mother", "grandmother", "son", "sister",
+      "", "", "", "",
+       "grandmother", "sister", "mother", "son",
+      "", "", "", ""
     ],
     "img":[
-     "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png",
-        "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png",
-        "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png",
-        "https://raw.githubusercontent.com/jackerha/bup/master/man4.png",
-        "https://raw.githubusercontent.com/jackerha/bup/master/man2.png",
-        "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png",
-        "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png",
-        "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png"
+     "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/brother.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/father.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/grandfather.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/daughter.png",
+      
+        "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/daughter.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/father.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/daughter.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/brother.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/grandfather.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/grandfather.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/mother.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/grandmother.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/son.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/sister.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/mother.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/grandmother.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/sister.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/mother.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/son.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/son.png",
+        "",
+        "",
+        ""
     ],
     "read":[
     "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&total=1&idx=0&textlen=5&tk=881021.772308&client=webapp&prev=input",
