@@ -9,15 +9,15 @@
     "questions": [ 
        "Hình nào là trái táo? ",
         "Viết tên hình ảnh dưới đây?",
-        "Hình nào là con gái?",
+        "Hình nào là trái bơ?",
         "Viết tên hình ảnh dưới đây?"
     ],
     "answers": [
         "apple",
-        "BOY",
-        "girl",
-        "MAN",
-        "public",
+        "APRICOT",
+        "avocado",
+        "BANANA",
+        "FF",
         "import pkg.*",
         "None of the mentioned",
         "java",
@@ -25,55 +25,58 @@
         "int"
     ],
     "opt":[
-       "apple", "boy", "girl", "man",
+       "apple", "apricot", "avocado", "banana",
         "", "", "", "",
-        "man", "girl", "boy", "apple",
+        "banana", "avocado", "apple", "apricot",
         "", "", "", ""
     ],
     "img":[
      "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png",
-        "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png",
-        "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png",
-        "https://raw.githubusercontent.com/jackerha/bup/master/man4.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/fruit/apricot.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/fruit/avocado.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/fruit/banana.png",
       
-        "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/fruit/apricot.png",
         "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png",
         "https://raw.githubusercontent.com/jackerha/bup/master/man4.png",
         "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png",
 
-        "https://raw.githubusercontent.com/jackerha/bup/master/man4.png",
-        "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png",
-        "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/fruit/banana.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/fruit/avocado.png",
         "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/fruit/apricot.png",
       
-      "https://raw.githubusercontent.com/jackerha/bup/master/man4.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/fruit/banana.png",
       "https://raw.githubusercontent.com/jackerha/bup/master/girl2.png",
       "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png",
         "https://raw.githubusercontent.com/jackerha/bup/master/boy2.png"
     ],
     "read":[
       "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&total=1&idx=0&textlen=5&tk=881021.772308&client=webapp&prev=input",
-    "https://translate.google.com/translate_tts?ie=UTF-8&q=boy&tl=en&total=1&idx=0&textlen=3&tk=40910.403047&client=webapp&prev=input",
-    "https://translate.google.com/translate_tts?ie=UTF-8&q=girl&tl=en&total=1&idx=0&textlen=4&tk=814923.710370&client=webapp&prev=input",
-    "https://translate.google.com/translate_tts?ie=UTF-8&q=man&tl=en&total=1&idx=0&textlen=3&tk=438330.2451&client=webapp&prev=input",
-     "https://translate.google.com/translate_tts?ie=UTF-8&q=boy&tl=en&total=1&idx=0&textlen=3&tk=40910.403047&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=apricot&tl=en&total=1&idx=0&textlen=7&tk=380015.227173&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=avocado&tl=en&total=1&idx=0&textlen=7&tk=494662.79692&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=banana&tl=en&total=1&idx=0&textlen=6&tk=511047.96077&client=webapp&prev=input",
+      
+     "https://translate.google.com/translate_tts?ie=UTF-8&q=apricot&tl=en&total=1&idx=0&textlen=7&tk=380015.227173&client=webapp&prev=input",
     "https://translate.google.com/translate_tts?ie=UTF-8&q=man&tl=en&total=1&idx=0&textlen=3&tk=438330.2451&client=webapp&prev=input",
     "https://translate.google.com/translate_tts?ie=UTF-8&q=girl&tl=en&total=1&idx=0&textlen=4&tk=814923.710370&client=webapp&prev=input",
     "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&total=1&idx=0&textlen=5&tk=881021.772308&client=webapp&prev=input",
-    "https://translate.google.com/translate_tts?ie=UTF-8&q=man&tl=en&total=1&idx=0&textlen=3&tk=438330.2451&client=webapp&prev=input",
-    "https://translate.google.com/translate_tts?ie=UTF-8&q=girl&tl=en&total=1&idx=0&textlen=4&tk=814923.710370&client=webapp&prev=input",
-    "https://translate.google.com/translate_tts?ie=UTF-8&q=boy&tl=en&total=1&idx=0&textlen=3&tk=40910.403047&client=webapp&prev=input",
-    "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&total=1&idx=0&textlen=5&tk=881021.772308&client=webapp&prev=input",
-    "https://translate.google.com/translate_tts?ie=UTF-8&q=man&tl=en&total=1&idx=0&textlen=3&tk=438330.2451&client=webapp&prev=input",
+      
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=banana&tl=en&total=1&idx=0&textlen=6&tk=511047.96077&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=avocado&tl=en&total=1&idx=0&textlen=7&tk=494662.79692&client=webapp&prev=input",
+      "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&total=1&idx=0&textlen=5&tk=881021.772308&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=apricot&tl=en&total=1&idx=0&textlen=7&tk=380015.227173&client=webapp&prev=input",
+      
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=banana&tl=en&total=1&idx=0&textlen=6&tk=511047.96077&client=webapp&prev=input",
     "https://translate.google.com/translate_tts?ie=UTF-8&q=girl&tl=en&total=1&idx=0&textlen=4&tk=814923.710370&client=webapp&prev=input",
      "https://translate.google.com/translate_tts?ie=UTF-8&q=boy&tl=en&total=1&idx=0&textlen=3&tk=40910.403047&client=webapp&prev=input",
     "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&total=1&idx=0&textlen=5&tk=881021.772308&client=webapp&prev=input"
     ],
     "key": [
       "E", "P", "A", "N",
-      "L B I A P Y E M O", "H", "L", "M",
+      "A Q R I O V C P H T", "H", "L", "M",
       "L","E", "P", "A",
-      "L A G U I U I N M", "P", "H", "L",
+      "N C A O A B Q N Q A", "P", "H", "L",
       "M", "L", "E", "P", "A", "N", "P", "H", "L", "M", "L"
   ],
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/apple2.png"
