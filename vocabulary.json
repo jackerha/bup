@@ -500,22 +500,22 @@
         ""
     ],
     "read":[
-    "https://translate.google.com/translate_tts?ie=UTF-8&q=brother&tl=en&total=1&idx=0&textlen=7&tk=352341.252740&client=webapp&prev=input",
-    "https://translate.google.com/translate_tts?ie=UTF-8&q=father&tl=en&total=1&idx=0&textlen=6&tk=651745.1002224&client=webapp&prev=input",
-    "https://translate.google.com/translate_tts?ie=UTF-8&q=grandfather&tl=en&total=1&idx=0&textlen=11&tk=178478.262719&client=webapp&prev=input",
-    "https://translate.google.com/translate_tts?ie=UTF-8&q=daughter&tl=en&total=1&idx=0&textlen=8&tk=475338.130011&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=cook&tl=en&total=1&idx=0&textlen=4&tk=971989.551389&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=clear&tl=en&total=1&idx=0&textlen=5&tk=453437.22069&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=drink&tl=en&total=1&idx=0&textlen=5&tk=870253.784997&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=eat&tl=en&total=1&idx=0&textlen=3&tk=985096.636160&client=webapp&prev=input",
       
-    "https://translate.google.com/translate_tts?ie=UTF-8&q=daughter&tl=en&total=1&idx=0&textlen=8&tk=475338.130011&client=webapp&prev=input",
+    "https://translate.google.com/translate_tts?ie=UTF-8&q=cook&tl=en&total=1&idx=0&textlen=4&tk=971989.551389&client=webapp&prev=input",
     "",
     "",
     "",
       
-      "https://translate.google.com/translate_tts?ie=UTF-8&q=father&tl=en&total=1&idx=0&textlen=6&tk=651745.1002224&client=webapp&prev=input",
-      "https://translate.google.com/translate_tts?ie=UTF-8&q=daughter&tl=en&total=1&idx=0&textlen=8&tk=475338.130011&client=webapp&prev=input",
-      "https://translate.google.com/translate_tts?ie=UTF-8&q=brother&tl=en&total=1&idx=0&textlen=7&tk=352341.252740&client=webapp&prev=input",
-      "https://translate.google.com/translate_tts?ie=UTF-8&q=grandfather&tl=en&total=1&idx=0&textlen=11&tk=178478.262719&client=webapp&prev=input",
+      "https://translate.google.com/translate_tts?ie=UTF-8&q=eat&tl=en&total=1&idx=0&textlen=3&tk=985096.636160&client=webapp&prev=input",
+      "https://translate.google.com/translate_tts?ie=UTF-8&q=clear&tl=en&total=1&idx=0&textlen=5&tk=453437.22069&client=webapp&prev=input",
+      "https://translate.google.com/translate_tts?ie=UTF-8&q=cook&tl=en&total=1&idx=0&textlen=4&tk=971989.551389&client=webapp&prev=input",
+      "https://translate.google.com/translate_tts?ie=UTF-8&q=drink&tl=en&total=1&idx=0&textlen=5&tk=870253.784997&client=webapp&prev=input",
       
-      "https://translate.google.com/translate_tts?ie=UTF-8&q=grandfather&tl=en&total=1&idx=0&textlen=11&tk=178478.262719&client=webapp&prev=input",
+      "https://translate.google.com/translate_tts?ie=UTF-8&q=eat&tl=en&total=1&idx=0&textlen=3&tk=985096.636160&client=webapp&prev=input",
       "",
       "",
       "",
