@@ -578,7 +578,7 @@
         "foggy",
         "WINDY",
         "dry",
-        "WET",
+        "WET"
     ],
     "opt":[
        "cloudy", "rainy", "sunny", "snowy",
@@ -710,7 +710,7 @@
         "pill",
         "INJECTION",
         "eyedrop",
-        "ONITMENT",
+        "ONITMENT"
     ],
     "opt":[
        "bed rest", "surgery", "ice parck", "capsule",
