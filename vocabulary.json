@@ -584,7 +584,7 @@
        "cloudy", "rainy", "sunny", "snowy",
         "", "", "", "",
       "snowy", "sunny", "cloudy", "rainy",
-      "", "", "", ""
+      "", "", "", "",
       "dry", "foggy", "windy", "wet",
         "", "", "", "",
       "wet", "windy", "dry", "foggy",
@@ -709,7 +709,7 @@
         "CAPSULE",
         "pill",
         "INJECTION",
-        "eyedrop",
+        "eye drop",
         "ONITMENT"
     ],
     "opt":[
