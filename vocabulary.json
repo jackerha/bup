@@ -551,5 +551,454 @@
       "I O Y S U O N A R G H", "M", "L", "L"
   ],
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/family.png"
+  },
+  {
+    "id": 4,
+    "name": "Weather",
+    "audio": [
+      "https://raw.githubusercontent.com/jackerha/bup/master/true.mp3",
+      "https://raw.githubusercontent.com/jackerha/bup/master/fail.mp3"
+    ],
+     "questions": [ 
+       "Hình nào là mưa?",
+        "Viết tên hình ảnh dưới đây?",
+        "Hình nào có tuyết? ",
+       "Viết tên hình ảnh dưới đây?",
+       "Hình nào là sương mù?",
+        "Viết tên hình ảnh dưới đây?",
+        "Hình nào là khô ráo? ",
+       "Viết tên hình ảnh dưới đây?"
+    ],
+    "answers": [
+         "rainy",
+        "CLOUDY",
+        "snowy",
+        "SUNNY",
+        "foggy",
+        "WINDY",
+        "dry",
+        "WET",
+    ],
+    "opt":[
+       "cloudy", "rainy", "sunny", "snowy",
+        "", "", "", "",
+      "snowy", "sunny", "cloudy", "rainy",
+      "", "", "", ""
+      "dry", "foggy", "windy", "wet",
+        "", "", "", "",
+      "wet", "windy", "dry", "foggy",
+      "", "", "", ""
+    ],
+    "img":[
+     "https://raw.githubusercontent.com/jackerha/bup/master/weather/cloudy.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/weather/rainy.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/weather/sunny.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/weather/snowy.png",
+      
+        "https://raw.githubusercontent.com/jackerha/bup/master/weather/cloudy.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/weather/snowy.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/weather/sunny.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/weather/cloudy.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/weather/rainy.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/weather/sunny.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/weather/dry.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/weather/foggy.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/weather/windy.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/weather/wet.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/weather/windy.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/weather/wet.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/weather/windy.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/weather/dry.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/weather/foggy.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/weather/wet.png",
+        "",
+        "",
+        ""
+    ],
+    "read":[
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=cloudy&tl=en&total=1&idx=0&textlen=6&tk=657591.832883&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=rainy&tl=en&total=1&idx=0&textlen=5&tk=290375.185219&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=sunny&tl=en&total=1&idx=0&textlen=5&tk=316896.157732&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=snowy&tl=en&total=1&idx=0&textlen=5&tk=163278.311306&client=webapp&prev=input",
+      
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=cloudy&tl=en&total=1&idx=0&textlen=6&tk=657591.832883&client=webapp&prev=input",
+    "",
+    "",
+    "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=snowy&tl=en&total=1&idx=0&textlen=5&tk=163278.311306&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=sunny&tl=en&total=1&idx=0&textlen=5&tk=316896.157732&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=cloudy&tl=en&total=1&idx=0&textlen=6&tk=657591.832883&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=rainy&tl=en&total=1&idx=0&textlen=5&tk=290375.185219&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=sunny&tl=en&total=1&idx=0&textlen=5&tk=316896.157732&client=webapp&prev=input",
+      "",
+      "",
+      "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=foggy&tl=en&total=1&idx=0&textlen=5&tk=695572.794832&client=webapp&prev=input",
+      "https://translate.google.com/translate_tts?ie=UTF-8&q=grandmother&tl=en&total=1&idx=0&textlen=11&tk=833953.656048&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=winddy&tl=en&total=1&idx=0&textlen=6&tk=682781.841433&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=wet&tl=en&total=1&idx=0&textlen=3&tk=284794.189886&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=winddy&tl=en&total=1&idx=0&textlen=6&tk=682781.841433&client=webapp&prev=input",
+      "",
+      "",
+      "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=wet&tl=en&total=1&idx=0&textlen=3&tk=284794.189886&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=winddy&tl=en&total=1&idx=0&textlen=6&tk=682781.841433&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=foggy&tl=en&total=1&idx=0&textlen=5&tk=695572.794832&client=webapp&prev=input",
+      "https://translate.google.com/translate_tts?ie=UTF-8&q=grandmother&tl=en&total=1&idx=0&textlen=11&tk=833953.656048&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=wet&tl=en&total=1&idx=0&textlen=3&tk=284794.189886&client=webapp&prev=input",
+      "",
+      "",
+      ""
+    ],
+    "key": [
+      "E", "P", "A", "N",
+      "A C D Y R N L M U Q O ", "H", "L", "M",
+      "L","E", "P", "A", 
+      "N F S Y K T U F J G N R G", "P", "H", "L", 
+      "M", "L", "E", "P", 
+      "D W N R T H Y I P K U", "N", "P", "H", 
+      "L", "M", "L", "L",
+      "I W Y S U E N T R G H", "M", "L", "L"
+  ],
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/weather/sunny.png"
+  },
+ {
+    "id": 5,
+    "name": "Treatments and Remedies",
+    "audio": [
+      "https://raw.githubusercontent.com/jackerha/bup/master/true.mp3",
+      "https://raw.githubusercontent.com/jackerha/bup/master/fail.mp3"
+    ],
+     "questions": [ 
+       "Hình nào là giường bênh ?",
+        "Viết tên hình ảnh dưới đây?",
+        "Hình nào là chườm đá? ",
+       "Viết tên hình ảnh dưới đây?",
+       "Hình nào là viên thuốc?",
+        "Viết tên hình ảnh dưới đây?",
+        "Hình nào là thuốc nhỏ mắt? ",
+       "Viết tên hình ảnh dưới đây?"
+    ],
+    "answers": [
+         "bed rest",
+        "SURGERY",
+        "ice parck",
+        "CAPSULE",
+        "pill",
+        "INJECTION",
+        "eye drop",
+        "ONITMENT"
+    ],
+    "opt":[
+       "bed rest", "surgery", "ice parck", "capsule",
+        "", "", "", "",
+      "surgery", "bed rest", "capsule", "ice parck",
+      "", "", "", "",
+      "injection", "pill", "eye drop", "onitment",
+        "", "", "", "",
+      "eye drop", "injection", "onitment", "pill",
+      "", "", "", ""
+    ],
+    "img":[
+     "https://github.com/jackerha/bup/raw/master/restaurantverbs/cook.png",
+     "https://github.com/jackerha/bup/raw/master/restaurantverbs/clear.png",
+     "https://github.com/jackerha/bup/raw/master/restaurantverbs/drink.png",
+     "https://github.com/jackerha/bup/raw/master/restaurantverbs/eat.png",
+      
+        "https://github.com/jackerha/bup/raw/master/restaurantverbs/cook.png",
+        "",
+        "",
+        "",
+      
+      "https://github.com/jackerha/bup/raw/master/restaurantverbs/eat.png",
+      "https://github.com/jackerha/bup/raw/master/restaurantverbs/clear.png",
+      "https://github.com/jackerha/bup/raw/master/restaurantverbs/cook.png",
+      "https://github.com/jackerha/bup/raw/master/restaurantverbs/drink.png",
+      
+      "https://github.com/jackerha/bup/raw/master/restaurantverbs/eat.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/mother.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/grandmother.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/son.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/sister.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/mother.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/grandmother.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/sister.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/mother.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/son.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/son.png",
+        "",
+        "",
+        ""
+    ],
+    "read":[
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=bed%20rest&tl=en&total=1&idx=0&textlen=8&tk=850880.673284&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=surgery&tl=en&total=1&idx=0&textlen=7&tk=377115.228575&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=ice%20pack&tl=en&total=1&idx=0&textlen=8&tk=85660.521048&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=capsule&tl=en&total=1&idx=0&textlen=7&tk=855926.766642&client=webapp&prev=input",
+      
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=surgery&tl=en&total=1&idx=0&textlen=7&tk=377115.228575&client=webapp&prev=input",
+    "",
+    "",
+    "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=surgery&tl=en&total=1&idx=0&textlen=7&tk=377115.228575&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=bed%20rest&tl=en&total=1&idx=0&textlen=8&tk=850880.673284&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=capsule&tl=en&total=1&idx=0&textlen=7&tk=855926.766642&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=capsule&tl=en&total=1&idx=0&textlen=7&tk=855926.766642&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=capsule&tl=en&total=1&idx=0&textlen=7&tk=855926.766642&client=webapp&prev=input",
+      "",
+      "",
+      "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=injection&tl=en&total=1&idx=0&textlen=9&tk=341930.232046&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=pill&tl=en&total=1&idx=0&textlen=4&tk=338111.234875&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=eye%20drop&tl=en&total=1&idx=0&textlen=8&tk=674508.849672&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=ointment&tl=en&total=1&idx=0&textlen=8&tk=689059.802407&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=injection&tl=en&total=1&idx=0&textlen=9&tk=341930.232046&client=webapp&prev=input",
+      "",
+      "",
+      "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=eye%20drop&tl=en&total=1&idx=0&textlen=8&tk=674508.849672&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=injection&tl=en&total=1&idx=0&textlen=9&tk=341930.232046&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=eye%20drop&tl=en&total=1&idx=0&textlen=8&tk=674508.849672&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=ointment&tl=en&total=1&idx=0&textlen=8&tk=689059.802407&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=eye%20drop&tl=en&total=1&idx=0&textlen=8&tk=674508.849672&client=webapp&prev=input",
+      "",
+      "",
+      ""
+    ],
+    "key": [
+      "E", "P", "A", "N",
+      "S Y D G R N L R U Q E ", "H", "L", "M",
+      "L","E", "P", "A", 
+      "E F S C K T U L A G N R P", "P", "H", "L", 
+      "M", "L", "E", "P", 
+      "E W N I T C Y I P K J N O ", "N", "P", "H", 
+      "L", "M", "L", "L",
+      "I 0 T S U E N T R G M", "M", "L", "L"
+  ],
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/family.png"
+  },
+{
+    "id": 6,
+    "name": "Trunks",
+    "audio": [
+      "https://raw.githubusercontent.com/jackerha/bup/master/true.mp3",
+      "https://raw.githubusercontent.com/jackerha/bup/master/fail.mp3"
+    ],
+     "questions": [ 
+       "Hình nào là xe trộn xi măng ?",
+        "Viết tên hình ảnh dưới đây?",
+        "Hình nào là xe đổ vật liệu ? ",
+       "Viết tên hình ảnh dưới đây?",
+       "Hình nào là xe cứu hoả ?",
+        "Viết tên hình ảnh dưới đây?",
+        "Hình nào là xe chở nguyên liệu? ",
+       "Viết tên hình ảnh dưới đây?",
+       "Hình nào là xe giao hàng ?",
+        "Viết tên hình ảnh dưới đây?",
+        "Hình nào là xe kéo ? ",
+       "Viết tên hình ảnh dưới đây?"
+    ],
+    "answers": [
+         "cement truck",
+        "DELIVERYMAN",
+        "dump truck",
+        "FLATBED",
+        "fire truck",
+        "SNOWPLOW",
+        "fuel truck",
+        "GARBAGETRUCK",
+        "panel truck",
+        "PICKUPTRUCKS",
+        "tow truck",
+        "TRACTORTRAILER"
+    ],
+    "opt":[
+       "dump truck", "cement truck", "deliveryman", "flatbed",
+        "", "", "", "",
+      "deliveryman", "dump truck", "flatbed", "cement truck",
+      "", "", "", "",
+      "snowplow", "garbage truck", "fuel truck", "fire truck",
+        "", "", "", "",
+      "fuel truck", "garbage truck", "fire truck", "snowplow",
+      "", "", "", "",
+     "tractor trailer", "panel truck", "tow truck", "pickup truck",
+        "", "", "", "",
+      "panel truck", "pickup truck", "tractor trailer", "tow truck",
+      "", "", "", ""
+    ],
+    "img":[
+     "https://raw.githubusercontent.com/jackerha/bup/master/trucks/dumptruck.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/trucks/cementtruck.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/trucks/deliveryman.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/trucks/flatbed.png",
+      
+        "https://raw.githubusercontent.com/jackerha/bup/master/trucks/deliveryman.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/deliveryman.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/dumptruck.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/flatbed.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/cementtruck.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/flatbed.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/snowplow.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/trucks/garbagetruck.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/trucks/fueltruck.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/trucks/firetruck.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/snowplow.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/fueltruck.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/garbagetruck.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/firetruck.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/snowplow.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/garbagetruck.png",
+        "",
+        "",
+        "",
+
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/tractortrailer.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/trucks/paneltruck.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/trucks/towtruck.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/trucks/pickuptruck.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/pickuptruck.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/paneltruck.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/pickuptruck.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/tractortrailer.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/towtruck.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/tractortrailer.png",
+        "",
+        "",
+        ""
+    ],
+    "read":[
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=dump%20truck&tl=en&total=1&idx=0&textlen=10&tk=141156.301418&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=cement%20truck&tl=en&total=1&idx=0&textlen=12&tk=62183.412905&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=deliveryman&tl=en&total=1&idx=0&textlen=11&tk=564.441402&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=flatbed&tl=en&total=1&idx=0&textlen=7&tk=652360.1002054&client=webapp&prev=input",
+      
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=deliveryman&tl=en&total=1&idx=0&textlen=11&tk=564.441402&client=webapp&prev=input",
+    "",
+    "",
+    "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=deliveryman&tl=en&total=1&idx=0&textlen=11&tk=564.441402&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=dump%20truck&tl=en&total=1&idx=0&textlen=10&tk=141156.301418&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=flatbed&tl=en&total=1&idx=0&textlen=7&tk=652360.1002054&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=cement%20truck&tl=en&total=1&idx=0&textlen=12&tk=62183.412905&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=flatbed&tl=en&total=1&idx=0&textlen=7&tk=652360.1002054&client=webapp&prev=input",
+      "",
+      "",
+      "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=snowplow&tl=en&total=1&idx=0&textlen=8&tk=149052.325682&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=garbage%20truck&tl=en&total=1&idx=0&textlen=13&tk=715107.808813&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=fuel%20truck&tl=en&total=1&idx=0&textlen=10&tk=599538.1022972&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=fire%20truck&tl=en&total=1&idx=0&textlen=10&tk=526860.963586&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=snowplow&tl=en&total=1&idx=0&textlen=8&tk=149052.325682&client=webapp&prev=input",
+      "",
+      "",
+      "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=fuel%20truck&tl=en&total=1&idx=0&textlen=10&tk=599538.1022972&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=garbage%20truck&tl=en&total=1&idx=0&textlen=13&tk=715107.808813&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=fire%20truck&tl=en&total=1&idx=0&textlen=10&tk=526860.963586&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=snowplow&tl=en&total=1&idx=0&textlen=8&tk=149052.325682&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=garbage%20truck&tl=en&total=1&idx=0&textlen=13&tk=715107.808813&client=webapp&prev=input",
+      "",
+      "",
+      "",
+
+     "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=tractor%20trailer&tl=en&total=1&idx=0&textlen=15&tk=329435.243925&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=panel%20truck&tl=en&total=1&idx=0&textlen=11&tk=444726.30520&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=tow%20truck&tl=en&total=1&idx=0&textlen=9&tk=564503.926489&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=pickup%20truck&tl=en&total=1&idx=0&textlen=12&tk=103305.470407&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=pickup%20truck&tl=en&total=1&idx=0&textlen=12&tk=103305.470407&client=webapp&prev=input",
+      "",
+      "",
+      "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=panel%20truck&tl=en&total=1&idx=0&textlen=11&tk=444726.30520&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=pickup%20truck&tl=en&total=1&idx=0&textlen=12&tk=103305.470407&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=tractor%20trailer&tl=en&total=1&idx=0&textlen=15&tk=329435.243925&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=tow%20truck&tl=en&total=1&idx=0&textlen=9&tk=564503.926489&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=tractor%20trailer&tl=en&total=1&idx=0&textlen=15&tk=329435.243925&client=webapp&prev=input",
+      "",
+      "",
+      ""
+    ],
+    "key": [
+      "E", "P", "A", "N",
+      "V Y D E I N L R U Q E A M ", "H", "L", "M",
+      "L","E", "P", "A", 
+      "E F S C K T U L A G D B", "P", "H", "L",
+      "L", "M", "L", "L",
+      "L W O S U E N P R G O W", "M", "L", "L",
+      "E", "P", "A", "N",
+      "G H T A G R L O A B T A M J G P E C E T P K F R Q X Z U H C G S K ", "H", "L", "M",
+      "L","E", "P", "A", 
+      "P O I C T C L E K P U M T P T A C R U W C J K V M S", "P", "H", "L",
+      "M", "L", "E", "P", 
+      "G T C R Y A H R C P T M U O X R Z O T L R A H V I Y L E K R ", "N", "P", "H",
+  ],
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/trucks/dumptruck.png"
   }
 ]
