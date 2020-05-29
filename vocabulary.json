@@ -577,7 +577,7 @@
         "foggy",
         "WINDY",
         "dry",
-        "WET",
+        "WET"
     ],
     "opt":[
        "cloudy", "rainy", "sunny", "snowy",
