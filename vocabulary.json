@@ -813,5 +813,192 @@
       "I 0 T S U E N T R G M", "M", "L", "L"
   ],
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/family.png"
+  },
+  {
+    "id": 6,
+    "name": "Trunks",
+    "audio": [
+      "https://raw.githubusercontent.com/jackerha/bup/master/true.mp3",
+      "https://raw.githubusercontent.com/jackerha/bup/master/fail.mp3"
+    ],
+     "questions": [ 
+       "Hình nào là xe trộn xi măng ?",
+        "Viết tên hình ảnh dưới đây?",
+        "Hình nào là xe đổ vật liệu ? ",
+       "Viết tên hình ảnh dưới đây?",
+       "Hình nào là xe cứu hoả ?",
+        "Viết tên hình ảnh dưới đây?",
+        "Hình nào là xe chở nguyên liệu? ",
+       "Viết tên hình ảnh dưới đây?",
+       "Hình nào là xe giao hàng ?",
+        "Viết tên hình ảnh dưới đây?",
+        "Hình nào là xe kéo ? ",
+       "Viết tên hình ảnh dưới đây?"
+    ],
+    "answers": [
+         "cement truck",
+        "DELIVERYMAN",
+        "dump truck",
+        "FLATBED",
+        "fire truck",
+        "SNOWPLOW",
+        "fuel truck",
+        "GARBAGETRUCK",
+        "panel truck",
+        "PICKUPTRUCKS",
+        "tow truck",
+        "TRACTORTRAILER"
+    ],
+    "opt":[
+       "dump truck", "cement truck", "deliveryman", "flatbed",
+        "", "", "", "",
+      "deliveryman", "dump truck", "flatbed", "cement truck",
+      "", "", "", "",
+      "snowplow", "garbage truck", "fuel truck", "fire truck",
+        "", "", "", "",
+      "fuel truck", "garbage truck", "fire truck", "snowplow",
+      "", "", "", "",
+     "tractor trailer", "panel truck", "tow truck", "pickup truck",
+        "", "", "", "",
+      "panel truck", "pickup truck", "tractor trailer", "tow truck",
+      "", "", "", ""
+    ],
+    "img":[
+     "https://raw.githubusercontent.com/jackerha/bup/master/trucks/dumptruck.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/trucks/cementtruck.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/trucks/deliveryman.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/trucks/flatbed.png",
+      
+        "https://raw.githubusercontent.com/jackerha/bup/master/trucks/deliveryman.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/deliveryman.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/dumptruck.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/flatbed.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/cementtruck.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/flatbed.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/snowplow.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/trucks/garbagetruck.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/trucks/fueltruck.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/trucks/firetruck.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/snowplow.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/fueltruck.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/garbagetruck.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/firetruck.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/snowplow.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/garbagetruck.png",
+        "",
+        "",
+        "",
+
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/tractortrailer.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/trucks/paneltruck.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/trucks/towtruck.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/trucks/pickuptruck.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/pickuptruck.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/paneltruck.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/pickuptruck.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/tractortrailer.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/towtruck.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/trucks/tractortrailer.png",
+        "",
+        "",
+        ""
+    ],
+    "read":[
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=dump%20truck&tl=en&total=1&idx=0&textlen=10&tk=141156.301418&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=cement%20truck&tl=en&total=1&idx=0&textlen=12&tk=62183.412905&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=deliveryman&tl=en&total=1&idx=0&textlen=11&tk=564.441402&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=flatbed&tl=en&total=1&idx=0&textlen=7&tk=652360.1002054&client=webapp&prev=input",
+      
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=deliveryman&tl=en&total=1&idx=0&textlen=11&tk=564.441402&client=webapp&prev=input",
+    "",
+    "",
+    "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=deliveryman&tl=en&total=1&idx=0&textlen=11&tk=564.441402&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=dump%20truck&tl=en&total=1&idx=0&textlen=10&tk=141156.301418&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=flatbed&tl=en&total=1&idx=0&textlen=7&tk=652360.1002054&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=cement%20truck&tl=en&total=1&idx=0&textlen=12&tk=62183.412905&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=flatbed&tl=en&total=1&idx=0&textlen=7&tk=652360.1002054&client=webapp&prev=input",
+      "",
+      "",
+      "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=snowplow&tl=en&total=1&idx=0&textlen=8&tk=149052.325682&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=garbage%20truck&tl=en&total=1&idx=0&textlen=13&tk=715107.808813&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=fuel%20truck&tl=en&total=1&idx=0&textlen=10&tk=599538.1022972&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=fire%20truck&tl=en&total=1&idx=0&textlen=10&tk=526860.963586&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=snowplow&tl=en&total=1&idx=0&textlen=8&tk=149052.325682&client=webapp&prev=input",
+      "",
+      "",
+      "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=fuel%20truck&tl=en&total=1&idx=0&textlen=10&tk=599538.1022972&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=garbage%20truck&tl=en&total=1&idx=0&textlen=13&tk=715107.808813&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=fire%20truck&tl=en&total=1&idx=0&textlen=10&tk=526860.963586&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=snowplow&tl=en&total=1&idx=0&textlen=8&tk=149052.325682&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=garbage%20truck&tl=en&total=1&idx=0&textlen=13&tk=715107.808813&client=webapp&prev=input",
+      "",
+      "",
+      "",
+
+     "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=tractor%20trailer&tl=en&total=1&idx=0&textlen=15&tk=329435.243925&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=panel%20truck&tl=en&total=1&idx=0&textlen=11&tk=444726.30520&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=tow%20truck&tl=en&total=1&idx=0&textlen=9&tk=564503.926489&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=pickup%20truck&tl=en&total=1&idx=0&textlen=12&tk=103305.470407&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=pickup%20truck&tl=en&total=1&idx=0&textlen=12&tk=103305.470407&client=webapp&prev=input",
+      "",
+      "",
+      "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=panel%20truck&tl=en&total=1&idx=0&textlen=11&tk=444726.30520&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=pickup%20truck&tl=en&total=1&idx=0&textlen=12&tk=103305.470407&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=tractor%20trailer&tl=en&total=1&idx=0&textlen=15&tk=329435.243925&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=tow%20truck&tl=en&total=1&idx=0&textlen=9&tk=564503.926489&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=tractor%20trailer&tl=en&total=1&idx=0&textlen=15&tk=329435.243925&client=webapp&prev=input",
+      "",
+      "",
+      ""
+    ],
+    "key": [
+      "E", "P", "A", "N",
+      "V Y D E I N L R U Q E A M ", "H", "L", "M",
+      "L","E", "P", "A", 
+      "E F S C K T U L A G D B", "P", "H", "L",
+      "L", "M", "L", "L",
+      "L W O S U E N P R G O W", "M", "L", "L",
+      "E", "P", "A", "N",
+      "G H T A G R L O A B T A M J G P E C E T P K F R Q X Z U H C G S K ", "H", "L", "M",
+      "L","E", "P", "A", 
+      "P O I C T C L E K P U M T P T A C R U W C J K V M S", "P", "H", "L",
+      "M", "L", "E", "P", 
+      "G T C R Y A H R C P T M U O X R Z O T L R A H V I Y L E K R ", "N", "P", "H",
+  ],
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/trucks/dumptruck.png"
   }
 ]
