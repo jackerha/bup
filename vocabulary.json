@@ -683,7 +683,7 @@
   ],
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/weather/sunny.png"
   },
-  {
+ {
     "id": 5,
     "name": "Treatments and Remedies",
     "audio": [
@@ -693,7 +693,7 @@
      "questions": [ 
        "Hình nào là giường bênh ?",
         "Viết tên hình ảnh dưới đây?",
-        "Hình nào là chườm đá? ",
+        "Hình nào là băng bó? ",
        "Viết tên hình ảnh dưới đây?",
        "Hình nào là viên thuốc?",
         "Viết tên hình ảnh dưới đây?",
@@ -703,60 +703,60 @@
     "answers": [
          "bed rest",
         "SURGERY",
-        "ice parck",
+        "plaster",
         "CAPSULE",
         "pill",
         "INJECTION",
         "eye drop",
-        "ONITMENT"
+        "TABLET"
     ],
     "opt":[
-       "bed rest", "surgery", "ice parck", "capsule",
+       "bed rest", "surgery", "plaster", "capsule",
         "", "", "", "",
-      "surgery", "bed rest", "capsule", "ice parck",
+      "surgery", "bed rest", "capsule", "plaster",
       "", "", "", "",
-      "injection", "pill", "eye drop", "onitment",
+      "injection", "pill", "eye drop", "tablet",
         "", "", "", "",
-      "eye drop", "injection", "onitment", "pill",
+      "eye drop", "injection", "tablet", "pill",
       "", "", "", ""
     ],
     "img":[
-     "https://github.com/jackerha/bup/raw/master/restaurantverbs/cook.png",
-     "https://github.com/jackerha/bup/raw/master/restaurantverbs/clear.png",
-     "https://github.com/jackerha/bup/raw/master/restaurantverbs/drink.png",
-     "https://github.com/jackerha/bup/raw/master/restaurantverbs/eat.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/bedrest.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/surgery.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/plaster.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/capsule.png",
       
-        "https://github.com/jackerha/bup/raw/master/restaurantverbs/cook.png",
-        "",
-        "",
-        "",
-      
-      "https://github.com/jackerha/bup/raw/master/restaurantverbs/eat.png",
-      "https://github.com/jackerha/bup/raw/master/restaurantverbs/clear.png",
-      "https://github.com/jackerha/bup/raw/master/restaurantverbs/cook.png",
-      "https://github.com/jackerha/bup/raw/master/restaurantverbs/drink.png",
-      
-      "https://github.com/jackerha/bup/raw/master/restaurantverbs/eat.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/surgery.png",
         "",
         "",
         "",
       
-      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/mother.png",
-        "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/grandmother.png",
-        "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/son.png",
-        "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/sister.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/surgery.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/bedrest.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/capsule.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/plaster.png",
       
-      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/mother.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/capsule.png",
         "",
         "",
         "",
       
-      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/grandmother.png",
-      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/sister.png",
-      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/mother.png",
-      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/son.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/injection.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/pill.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/eyedrop.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/tablet.png",
       
-      "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/son.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/injection.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/eyedrop.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/injection.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/tablet.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/pill.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/tablet.png",
         "",
         "",
         ""
@@ -764,7 +764,7 @@
     "read":[
     "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=bed%20rest&tl=en&total=1&idx=0&textlen=8&tk=850880.673284&client=webapp&prev=input",
     "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=surgery&tl=en&total=1&idx=0&textlen=7&tk=377115.228575&client=webapp&prev=input",
-    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=ice%20pack&tl=en&total=1&idx=0&textlen=8&tk=85660.521048&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=plaster&tl=en&total=1&idx=0&textlen=7&tk=844290.679040&client=webapp&prev=input",
     "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=capsule&tl=en&total=1&idx=0&textlen=7&tk=855926.766642&client=webapp&prev=input",
       
     "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=surgery&tl=en&total=1&idx=0&textlen=7&tk=377115.228575&client=webapp&prev=input",
@@ -775,7 +775,7 @@
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=surgery&tl=en&total=1&idx=0&textlen=7&tk=377115.228575&client=webapp&prev=input",
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=bed%20rest&tl=en&total=1&idx=0&textlen=8&tk=850880.673284&client=webapp&prev=input",
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=capsule&tl=en&total=1&idx=0&textlen=7&tk=855926.766642&client=webapp&prev=input",
-      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=capsule&tl=en&total=1&idx=0&textlen=7&tk=855926.766642&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=plaster&tl=en&total=1&idx=0&textlen=7&tk=844290.679040&client=webapp&prev=input",
       
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=capsule&tl=en&total=1&idx=0&textlen=7&tk=855926.766642&client=webapp&prev=input",
       "",
@@ -785,7 +785,7 @@
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=injection&tl=en&total=1&idx=0&textlen=9&tk=341930.232046&client=webapp&prev=input",
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=pill&tl=en&total=1&idx=0&textlen=4&tk=338111.234875&client=webapp&prev=input",
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=eye%20drop&tl=en&total=1&idx=0&textlen=8&tk=674508.849672&client=webapp&prev=input",
-      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=ointment&tl=en&total=1&idx=0&textlen=8&tk=689059.802407&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=tablet&tl=en&total=1&idx=0&textlen=6&tk=399330.43360&client=webapp&prev=input",
       
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=injection&tl=en&total=1&idx=0&textlen=9&tk=341930.232046&client=webapp&prev=input",
       "",
@@ -794,10 +794,10 @@
       
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=eye%20drop&tl=en&total=1&idx=0&textlen=8&tk=674508.849672&client=webapp&prev=input",
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=injection&tl=en&total=1&idx=0&textlen=9&tk=341930.232046&client=webapp&prev=input",
-      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=eye%20drop&tl=en&total=1&idx=0&textlen=8&tk=674508.849672&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=tablet&tl=en&total=1&idx=0&textlen=6&tk=399330.43360&client=webapp&prev=input",
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=ointment&tl=en&total=1&idx=0&textlen=8&tk=689059.802407&client=webapp&prev=input",
       
-      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=eye%20drop&tl=en&total=1&idx=0&textlen=8&tk=674508.849672&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=tablet&tl=en&total=1&idx=0&textlen=6&tk=399330.43360&client=webapp&prev=input",
       "",
       "",
       ""
@@ -810,8 +810,401 @@
       "M", "L", "E", "P", 
       "E W N I T C Y I P K J N O ", "N", "P", "H", 
       "L", "M", "L", "L",
-      "I 0 T S U E N T R G M", "M", "L", "L"
+      "A E T L T B", "M", "L", "L"
   ],
-    "url": "https://raw.githubusercontent.com/jackerha/bup/master/thefamily/family.png"
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/treatmentsandremedies/surgery.png"
+  },
+ {
+    "id": 7,
+    "name": "Aircraft",
+    "audio": [
+      "https://raw.githubusercontent.com/jackerha/bup/master/true.mp3",
+      "https://raw.githubusercontent.com/jackerha/bup/master/fail.mp3"
+    ],
+     "questions": [ 
+       "Hình nào là khí cầu nhỏ ?",
+        "Viết tên hình ảnh dưới đây?",
+        "Hình nào là tàu lượn không động cơ? ",
+       "Viết tên hình ảnh dưới đây?",
+       "Hình nào là khinh khí cầu?",
+        "Viết tên hình ảnh dưới đây?",
+        "Hình nào là máy bay sử dụng cánh quạt? ",
+       "Viết tên hình ảnh dưới đây?"
+    ],
+    "answers": [
+         "blimp",
+        "GLIDER",
+        "hang glider",
+        "HELICOPTER",
+        "hot air balloon",
+        "PRIVATEJET",
+        "propeller plane",
+        "RUNWAY"
+    ],
+    "opt":[
+       "hang glider", "glider", "helicoper", "blimp",
+        "", "", "", "",
+      "helicoper", "blimp", "hang glider", "glider",
+      "", "", "", "",
+      "hot air balloon", "propeller plane", "private jet", "runway",
+        "", "", "", "",
+      "propeller plane", "runway", "private jet", "hot air balloon",
+      "", "", "", ""
+    ],
+    "img":[
+     "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/hangglider.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/glider.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/helicopter.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/blimp.png",
+      
+        "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/glider.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/helicopter.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/blimp.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/hangglider.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/glider.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/helicopter.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/hotairballoon.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/propellerplane.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/privatejet.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/runway.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/privatejet.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/propellerplane.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/runway.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/privatejet.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/hotairballoon.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/runway.png",
+        "",
+        "",
+        ""
+    ],
+    "read":[
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=hang%20glider&tl=en&total=1&idx=0&textlen=11&tk=446128.28722&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=glider&tl=en&total=1&idx=0&textlen=6&tk=75628.498158&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=helicopter&tl=en&total=1&idx=0&textlen=10&tk=669237.821431&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=blimp&tl=en&total=1&idx=0&textlen=5&tk=837228.686318&client=webapp&prev=input",
+      
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=glider&tl=en&total=1&idx=0&textlen=6&tk=75628.498158&client=webapp&prev=input",
+    "",
+    "",
+    "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=helicopter&tl=en&total=1&idx=0&textlen=10&tk=669237.821431&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=blimp&tl=en&total=1&idx=0&textlen=5&tk=837228.686318&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=hang%20glider&tl=en&total=1&idx=0&textlen=11&tk=446128.28722&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=glider&tl=en&total=1&idx=0&textlen=6&tk=75628.498158&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=helicopter&tl=en&total=1&idx=0&textlen=10&tk=669237.821431&client=webapp&prev=input",
+      "",
+      "",
+      "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=hot%20air%20balloon&tl=en&total=1&idx=0&textlen=15&tk=259472.346898&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=propeller%20plane&tl=en&total=1&idx=0&textlen=15&tk=829144.661594&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=private%20jet&tl=en&total=1&idx=0&textlen=11&tk=213140.392726&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=runway&tl=en&total=1&idx=0&textlen=6&tk=39816.402698&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=private%20jet&tl=en&total=1&idx=0&textlen=11&tk=213140.392726&client=webapp&prev=input",
+      "",
+      "",
+      "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=propeller%20plane&tl=en&total=1&idx=0&textlen=15&tk=829144.661594&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=runway&tl=en&total=1&idx=0&textlen=6&tk=39816.402698&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=private%20jet&tl=en&total=1&idx=0&textlen=11&tk=213140.392726&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=hot%20air%20balloon&tl=en&total=1&idx=0&textlen=15&tk=259472.346898&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=runway&tl=en&total=1&idx=0&textlen=6&tk=39816.402698&client=webapp&prev=input",
+      "",
+      "",
+      ""
+    ],
+    "key": [
+      "E", "P", "A", "N",
+      "D  R I G L E", "H", "L", "M",
+      "L","E", "P", "A", 
+      "R P H C I O E T E L", "P", "H", "L", 
+      "M", "L", "E", "P", 
+      "E P V R T I E A T J", "N", "P", "H", 
+      "L", "M", "L", "L",
+      "N R U A Y W", "M", "L", "L"
+  ],
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/aircraft/blimp.png"
+  },
+ {
+    "id": 8,
+    "name": "Pleasure Boating",
+    "audio": [
+      "https://raw.githubusercontent.com/jackerha/bup/master/true.mp3",
+      "https://raw.githubusercontent.com/jackerha/bup/master/fail.mp3"
+    ],
+     "questions": [ 
+       "Hình nào là xuồng ?",
+        "Viết tên hình ảnh dưới đây?",
+        "Hình nào là áo phao? ",
+       "Viết tên hình ảnh dưới đây?",
+       "Hình nào là mái chèo?",
+        "Viết tên hình ảnh dưới đây?",
+        "Hình nào là thuyền buồm? ",
+       "Viết tên hình ảnh dưới đây?"
+    ],
+    "answers": [
+         "canoe",
+        "KAYAK",
+        "life jacket",
+        "MOTORBOAT",
+        "oar",
+        "ROWBOAT",
+        "sailboat",
+        "WINDSURFER"
+    ],
+    "opt":[
+       "canoe", "kayak", "life jacket", "motorboat",
+        "", "", "", "",
+      "motorboat", "kayak", "canoe", "life jacket",
+      "", "", "", "",
+      "rowboat", "sailboat", "oar", "windsurfer",
+        "", "", "", "",
+      "sailboat", "rowboat", "windsurfer", "oar",
+      "", "", "", ""
+    ],
+    "img":[
+     "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/canoe.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/kayak.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/lifejacket.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/motorboat.png",
+      
+        "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/kayak.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/motorboat.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/kayak.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/canoe.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/lifejacket.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/motorboat.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/rowboat.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/sailboat.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/oar.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/windsurfer.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/rowboat.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/sailboat.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/rowboat.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/windsurfer.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/oar.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/windsurfer.png",
+        "",
+        "",
+        ""
+    ],
+    "read":[
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=canoe&tl=en&total=1&idx=0&textlen=5&tk=773549.881455&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=kayak&tl=en&total=1&idx=0&textlen=5&tk=141838.300172&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=life%20jacket&tl=en&total=1&idx=0&textlen=11&tk=592065.1029699&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=motorboat&tl=en&total=1&idx=0&textlen=9&tk=652913.1001715&client=webapp&prev=input",
+      
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=kayak&tl=en&total=1&idx=0&textlen=5&tk=141838.300172&client=webapp&prev=input",
+    "",
+    "",
+    "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=motorboat&tl=en&total=1&idx=0&textlen=9&tk=652913.1001715&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=kayak&tl=en&total=1&idx=0&textlen=5&tk=141838.300172&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=canoe&tl=en&total=1&idx=0&textlen=5&tk=773549.881455&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=life%20jacket&tl=en&total=1&idx=0&textlen=11&tk=592065.1029699&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=motorboat&tl=en&total=1&idx=0&textlen=9&tk=652913.1001715&client=webapp&prev=input",
+      "",
+      "",
+      "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=rowboat&tl=en&total=1&idx=0&textlen=7&tk=583598.940332&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=sailboat&tl=en&total=1&idx=0&textlen=8&tk=420003.54817&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=oar&tl=en&total=1&idx=0&textlen=3&tk=642614.1011892&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=windsurfer&tl=en&total=1&idx=0&textlen=10&tk=346394.259992&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=rowboat&tl=en&total=1&idx=0&textlen=7&tk=583598.940332&client=webapp&prev=input",
+      "",
+      "",
+      "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=sailboat&tl=en&total=1&idx=0&textlen=8&tk=420003.54817&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=rowboat&tl=en&total=1&idx=0&textlen=7&tk=583598.940332&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=windsurfer&tl=en&total=1&idx=0&textlen=10&tk=346394.259992&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=oar&tl=en&total=1&idx=0&textlen=3&tk=642614.1011892&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=windsurfer&tl=en&total=1&idx=0&textlen=10&tk=346394.259992&client=webapp&prev=input",
+      "",
+      "",
+      ""
+    ],
+    "key": [
+      "E", "P", "A", "N",
+      "Y K A K A", "H", "L", "M",
+      "L","E", "P", "A", 
+      "O R B M O T O A T", "P", "H", "L", 
+      "M", "L", "E", "P", 
+      "B O T R A O W", "N", "P", "H", 
+      "L", "M", "L", "L",
+      "I R N S W R F E U D", "M", "L", "L"
+  ],
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/pleasureboating/canoe.png"
+  },
+ {
+    "id": 9,
+    "name": "Simple Animals",
+    "audio": [
+      "https://raw.githubusercontent.com/jackerha/bup/master/true.mp3",
+      "https://raw.githubusercontent.com/jackerha/bup/master/fail.mp3"
+    ],
+     "questions": [ 
+       "Hình nào là con cua ?",
+        "Viết tên hình ảnh dưới đây?",
+        "Hình nào là con bạch tuộc? ",
+       "Viết tên hình ảnh dưới đây?",
+       "Hình nào là con điệp?",
+        "Viết tên hình ảnh dưới đây?",
+        "Hình nào là mực ống? ",
+       "Viết tên hình ảnh dưới đây?"
+    ],
+    "answers": [
+         "crab",
+        "MUSSEL",
+        "octopus",
+        "OYSTER",
+        "scallop",
+        "SNAIL",
+        "squid",
+        "STARFISH"
+    ],
+    "opt":[
+       "oyster", "octopus", "mussel", "crab",
+        "", "", "", "",
+      "crab", "oyster", "octopus", "mussel",
+      "", "", "", "",
+      "scallop", "snail", "squid", "starfish",
+        "", "", "", "",
+      "squid", "starfish", "scallop", "snail",
+      "", "", "", ""
+    ],
+    "img":[
+     "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/oyster.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/octopus.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/mussel.png",
+     "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/crab.png",
+      
+        "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/mussel.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/crab.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/oyster.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/octopus.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/mussel.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/oyster.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/scallop.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/snail.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/squid.png",
+        "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/starfish.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/snail.png",
+        "",
+        "",
+        "",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/squid.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/starfish.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/scallop.png",
+      "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/snail.png",
+      
+      "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/starfish.png",
+        "",
+        "",
+        ""
+    ],
+    "read":[
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=oyster&tl=en&total=1&idx=0&textlen=6&tk=598050.1023648&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=octopus&tl=en&total=1&idx=0&textlen=7&tk=625691.995993&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=mussel&tl=en&total=1&idx=0&textlen=6&tk=501845.71383&client=webapp&prev=input",
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=crab&tl=en&total=1&idx=0&textlen=4&tk=219278.386572&client=webapp&prev=input",
+      
+    "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=mussel&tl=en&total=1&idx=0&textlen=6&tk=501845.71383&client=webapp&prev=input",
+    "",
+    "",
+    "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=crab&tl=en&total=1&idx=0&textlen=4&tk=219278.386572&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=oyster&tl=en&total=1&idx=0&textlen=6&tk=598050.1023648&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=octopus&tl=en&total=1&idx=0&textlen=7&tk=625691.995993&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=mussel&tl=en&total=1&idx=0&textlen=6&tk=501845.71383&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=oyster&tl=en&total=1&idx=0&textlen=6&tk=598050.1023648&client=webapp&prev=input", 1
+      "",
+      "",
+      "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=scallop&tl=en&total=1&idx=0&textlen=7&tk=311959.162837&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=snail&tl=en&total=1&idx=0&textlen=5&tk=941918.582108&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=squid&tl=en&total=1&idx=0&textlen=5&tk=934070.589364&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=starfish&tl=en&total=1&idx=0&textlen=8&tk=589494.933940&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=snail&tl=en&total=1&idx=0&textlen=5&tk=941918.582108&client=webapp&prev=input",
+      "",
+      "",
+      "",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=squid&tl=en&total=1&idx=0&textlen=5&tk=934070.589364&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=starfish&tl=en&total=1&idx=0&textlen=8&tk=589494.933940&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=scallop&tl=en&total=1&idx=0&textlen=7&tk=311959.162837&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=snail&tl=en&total=1&idx=0&textlen=5&tk=941918.582108&client=webapp&prev=input",
+      
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=starfish&tl=en&total=1&idx=0&textlen=8&tk=589494.933940&client=webapp&prev=input",
+      "",
+      "",
+      ""
+    ],
+    "key": [
+      "E", "P", "A", "N",
+      "S U E S L M", "H", "L", "M",
+      "L","E", "P", "A", 
+      "E O R S T Y", "P", "H", "L", 
+      "M", "L", "E", "P", 
+      "L A S I N", "N", "P", "H", 
+      "L", "M", "L", "L",
+      "I F S T A S R H", "M", "L", "L"
+  ],
+    "url": "https://raw.githubusercontent.com/jackerha/bup/master/simpleanimals/crab.png"
   }
 ]
