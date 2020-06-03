@@ -651,8 +651,8 @@
       "",
       "",
       
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=dry&tl=en&total=1&idx=0&textlen=3&tk=103436.469640&client=webapp&prev=input",
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=foggy&tl=en&total=1&idx=0&textlen=5&tk=695572.794832&client=webapp&prev=input",
-      "https://translate.google.com/translate_tts?ie=UTF-8&q=grandmother&tl=en&total=1&idx=0&textlen=11&tk=833953.656048&client=webapp&prev=input",
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=winddy&tl=en&total=1&idx=0&textlen=6&tk=682781.841433&client=webapp&prev=input",
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=wet&tl=en&total=1&idx=0&textlen=3&tk=284794.189886&client=webapp&prev=input",
       
@@ -663,8 +663,8 @@
       
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=wet&tl=en&total=1&idx=0&textlen=3&tk=284794.189886&client=webapp&prev=input",
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=winddy&tl=en&total=1&idx=0&textlen=6&tk=682781.841433&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=dry&tl=en&total=1&idx=0&textlen=3&tk=103436.469640&client=webapp&prev=input",
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=foggy&tl=en&total=1&idx=0&textlen=5&tk=695572.794832&client=webapp&prev=input",
-      "https://translate.google.com/translate_tts?ie=UTF-8&q=grandmother&tl=en&total=1&idx=0&textlen=11&tk=833953.656048&client=webapp&prev=input",
       
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=wet&tl=en&total=1&idx=0&textlen=3&tk=284794.189886&client=webapp&prev=input",
       "",
@@ -673,7 +673,7 @@
     ],
     "key": [
       "E", "P", "A", "N",
-      "A C D Y R N L M U Q O ", "H", "L", "M",
+      "A C D Y R N L M U Q O", "H", "L", "M",
       "L","E", "P", "A", 
       "N F S Y K T U F J G N R G", "P", "H", "L", 
       "M", "L", "E", "P", 
@@ -795,7 +795,7 @@
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=eye%20drop&tl=en&total=1&idx=0&textlen=8&tk=674508.849672&client=webapp&prev=input",
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=injection&tl=en&total=1&idx=0&textlen=9&tk=341930.232046&client=webapp&prev=input",
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=tablet&tl=en&total=1&idx=0&textlen=6&tk=399330.43360&client=webapp&prev=input",
-      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=ointment&tl=en&total=1&idx=0&textlen=8&tk=689059.802407&client=webapp&prev=input",
+      "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=pill&tl=en&total=1&idx=0&textlen=4&tk=338111.234875&client=webapp&prev=input",
       
       "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=tablet&tl=en&total=1&idx=0&textlen=6&tk=399330.43360&client=webapp&prev=input",
       "",
@@ -804,11 +804,11 @@
     ],
     "key": [
       "E", "P", "A", "N",
-      "S Y D G R N L R U Q E ", "H", "L", "M",
+      "S Y D G R N L R U Q E", "H", "L", "M",
       "L","E", "P", "A", 
       "E F S C K T U L A G N R P", "P", "H", "L", 
       "M", "L", "E", "P", 
-      "E W N I T C Y I P K J N O ", "N", "P", "H", 
+      "E W N I T C Y I P K J N O", "N", "P", "H", 
       "L", "M", "L", "L",
       "A E T L T B", "M", "L", "L"
   ],
@@ -987,17 +987,13 @@
     ],
     "key": [
       "E", "P", "A", "N",
-      "V Y D E I N L R U Q E A M ", "H", "L", "M",
+      "S Y D G R N L R U Q E", "H", "L", "M",
       "L","E", "P", "A", 
-      "E F S C K T U L A G D B", "P", "H", "L",
-      "L", "M", "L", "L",
-      "L W O S U E N P R G O W", "M", "L", "L",
-      "E", "P", "A", "N",
-      "G H T A G R L O A B T A M J G P E C E T P K F R Q X Z U H C G S K", "H", "L", "M",
-      "L","E", "P", "A", 
-      "P O I C T C L E K P U M T P T A C R U W C J K V M S", "P", "H", "L",
+      "E F S C K T U L A G N R P", "P", "H", "L", 
       "M", "L", "E", "P", 
-      "G T C R Y A H R C P T M U O X R Z O T L R A H V I Y L E K R", "N", "P", "H"
+      "E W N I T C Y I P K J N O", "N", "P", "H", 
+      "L", "M", "L", "L",
+      "A E T L T B", "M", "L", "L"
   ],
     "url": "https://raw.githubusercontent.com/jackerha/bup/master/trucks/dumptruck.png"
   },
